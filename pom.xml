@@ -124,11 +124,6 @@
 			<name>Motech Snapshots Repository</name>
 			<url>http://nexus.motechproject.org/content/repositories/releases</url>
 		</repository>
-<repository>
-      <id>ekigamba-repo</id>
-      <name>Ekigamba local Repository</name>
-      <url>file://home/ona-kigamba/.m2</url>
-    </repository>
 	</repositories>
 
 	<dependencies>
